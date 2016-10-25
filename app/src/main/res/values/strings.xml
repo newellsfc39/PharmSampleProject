@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PharmSampleProject</string>
+
+    <string name="study_now_label">Study Pharmaceutical Drugs</string>
+    <string name="study_now_button">Study Now</string>
+
+    <string name="quiz_now_button">Quiz Now</string>
+    <string name="quiz_now_label">Quiz yourself?</string>
+
+    <string name="getting_smarter_here">Getting Smarter Here</string>
+</resources>
